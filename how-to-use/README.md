@@ -120,3 +120,8 @@ Alternatively, open VS Code's terminal (``Ctrl + ` ``) and run `claude`.
 | `claude: command not found` | Close and reopen Terminal. |
 
 More detail: see the main [README](../README.md).
+
+---
+
+Copyright (c) 2026 Abhinav Rana. All rights reserved. See [LICENSE](LICENSE).
+Superpowers itself is by Jesse Vincent (MIT License).
